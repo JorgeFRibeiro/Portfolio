@@ -1,3 +1,7 @@
+Portfolio created that keeps track of projects and skills. In the future may add feature to contact, and website needs to be updated whenever new projects roll in.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
